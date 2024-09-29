@@ -1,0 +1,9 @@
+<resources>
+    <string name="intro_title">Step into your <font color="#6033ba">style\n A world of shoes</font></string>
+    <string name="intro_text">Browse the latest styles from top brands\nGet personalized recommendations\nEnjoy fast, free shopping</string>
+    <string name="intro_sighIn">Don\'t have an account? <font color="#6033ba">Sign Up</font></string>
+    <string name="empty_cart">Your Cart Is Empty</string>
+    <string name="empty_wishlist">Your Wishlist is Empty</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="login_account">Login to Your Account</string>
+</resources>
